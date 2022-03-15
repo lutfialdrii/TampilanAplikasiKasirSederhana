@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SiQasir</string>
+    <string name="title">Aplikasi Kasir</string>
+    <string name="Kode">Kode Barang</string>
+    <string name="Jumlah">Jumlah Barang</string>
+    <string name="Harga">Harga Barang</string>
+    <string name="Total">Total Harga</string>
+    <string name="Diskon">Diskon</string>
+    <string name="JumlahBayar">Jumlah Bayar</string>
+    <string name="namabarang">Nama Barang</string>
+    <string name="KodeDiskon">Kode Diskon</string>
+    <string name="KodeTransaksi">Kode Transaksi</string>
+    <string name="hitung">Hitung</string>
+    <string name="KodeBarang">Kode Barang</string>
+</resources>
